@@ -7,5 +7,5 @@
 **Scrabble Solving Application**
 
 - Enter in your tiles and the current board configuration
-- click solve and the program will find a good word for you to play
+- click find and the program will find a good word for you to play
 - uses a DAWG (Directed Analytic Word Graph) built from a dictionary
